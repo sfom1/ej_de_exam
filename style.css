@@ -1,0 +1,38 @@
+p.as1{
+    background-color: aqua;
+    margin-top: 0px;
+ margin-right: 500;
+    
+}
+
+h1.as2{
+    margin-left: auto;
+ background-color: blue;
+
+}
+p1.as3{
+    background-color: aliceblue;
+}
+
+h2.as4{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    margin-right: auto;
+}
+p2.as5{
+    background-color: aqua;
+    color: red;
+}
+
+ou.yellow{
+    background-color: yellow;
+}
+
+hr.blue{
+    color: aqua;
+}
+
+table tr td.table {
+    background-color: aqua;
+}
